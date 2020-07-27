@@ -1,11 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 0: July 24, 2020
+### Day 1: July 24, 2020
 
 **Today's Progress**: Set up Python environment - made it to page 27 of book.
 
 **Thoughts:** The first hurdle of committing to it is over.  Now to keep it up.
 
+
+### Day 2: July 27, 2020
+
+**Today's Progress**: Installed Spyder & PyCharm.  Finished Chapter 2 of Python Book.  
+
+**Thoughts**: Confused about can you run scripts for ArcPro from alternate IDE, or do you have to run geoprocessing scripts form the python window within ArcPro?  TWeeting gives me anxiety.
 
 
 ### Day 0: February 30, 2016 (Example 2)
@@ -17,13 +23,3 @@
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
