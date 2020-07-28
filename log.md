@@ -13,13 +13,11 @@
 
 **Thoughts**: Confused about can you run scripts for ArcPro from alternate IDE, or do you have to run geoprocessing scripts form the python window within ArcPro?  TWeeting gives me anxiety.
 
+### Day 3: July 28, 2020 2)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Only made it 40 mins before interrupted by work, then dog in that order.  Worked through Chapter 3 of the python book.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**: This chapter is mostly about geoprocessing within pro - familiar stuff to me. Had a hard time focussing.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
 
